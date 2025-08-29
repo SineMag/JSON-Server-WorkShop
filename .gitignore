@@ -81,7 +81,10 @@ out
 # Nuxt.js build / generate output
 .nuxt
 dist
+<<<<<<< HEAD
 .output
+=======
+>>>>>>> eb9f8a8c772ca6d98810a0be6f7d0ef0ef8e6e11
 
 # Gatsby files
 .cache/
@@ -138,4 +141,7 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+<<<<<<< HEAD
 Footer
+=======
+>>>>>>> eb9f8a8c772ca6d98810a0be6f7d0ef0ef8e6e11
