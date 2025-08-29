@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "json-server-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SineMag/JSON-Server-WorkShop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SineMag/JSON-Server-WorkShop/issues"
+  },
+  "homepage": "https://github.com/SineMag/JSON-Server-WorkShop#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
