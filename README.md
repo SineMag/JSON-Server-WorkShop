@@ -1,5 +1,9 @@
 ### Running the JSON Server
 #### ```run``` this on the terminal (front-end)
+
+ * make sure you are running on the correct folder
+
+ 
 ```$ npx json-server --watch src/data/dbz.json
 --watch/-w can be omitted, JSON Server 1+ watches for file changes by default
 JSON Server started on PORT :3000

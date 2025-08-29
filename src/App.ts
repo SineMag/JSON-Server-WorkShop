@@ -7,7 +7,7 @@ async function fetchItems() {
     const data = await response.json();
     // console.log(data); // This is the actual data
     characters = data;
-    console.log(characters[5]);
+    console.log(characters[0]);
   } catch (error) {
     console.log("Error:", error);
   }
