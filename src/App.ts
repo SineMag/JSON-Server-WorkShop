@@ -14,5 +14,11 @@ async function fetchItems() {
 }
 // Calling the function
 fetchItems();
-// console.log("hello");
-// console.log(characters);
+
+//creating a new function
+let root = document.getElementById("root") as HTMLElement;
+function noCharacterData(rootElement: HTMLElement, message: string): void {
+  rootElement.innerHTML = message;
+}
+
+noCharacterData(root, `No characters to display`);
